@@ -1,5 +1,5 @@
 # Manifold-Learning
-This repositorie includes some notebooks that implement several manifold learning techniques for dimentionality reduction. 
+This repositorie includes some notebooks that implement several manifold learning techniques for dimentionality reduction.
 
 The techniques used are ISOMAP, LLE and t-SNE that are tested in three different data sets.
 
